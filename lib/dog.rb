@@ -5,10 +5,10 @@ class Dog
     @breed = breed 
   end 
   
-  def name (dog_name)
+  def name (dogs_name)
     Fido 
     end 
-    Fido = dog_name.new
+    Fido = dogs_name.new
     
     def breed 
       pug 
