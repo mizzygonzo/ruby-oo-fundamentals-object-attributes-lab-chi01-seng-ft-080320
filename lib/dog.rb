@@ -5,4 +5,5 @@ class Dog
     @breed = breed 
   end 
   
-  def name = Fido 
+  def name
+    
