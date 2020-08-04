@@ -6,6 +6,14 @@ class Dog
   end 
   
   def name 
+    Fido 
+    end 
+    
+    def breed 
+      pug 
+    end 
+    
+  end 
     
     
 
