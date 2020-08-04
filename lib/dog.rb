@@ -8,7 +8,7 @@ class Dog
   def name (dogs_name)
     Fido 
     end 
-    Fido = dogs_name.new
+   
     
     def breed 
       pug 
